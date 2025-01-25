@@ -7,7 +7,7 @@
 I’m a student with a deep passion for technology and computers. Whether it's coding, building software, or exploring the latest tech trends, I'm always eager to learn and grow in the field.
 
 
-### ⚡️ Technologies
+### ⚡️ Technologies ###.
 
 ---
 
